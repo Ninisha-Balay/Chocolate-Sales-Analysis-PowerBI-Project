@@ -1,4 +1,4 @@
-# chocolate-sales-analysis-powerbi-project
+# Chocolate-Sales-Analysis-PowerBI-Project
 **📊 Chocolate Sales Analysis Dashboard (Power BI)**
 
 **📘 Overview**
